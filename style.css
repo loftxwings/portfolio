@@ -1,0 +1,18 @@
+@charset "UTF-8";
+html{
+ font-family: 'Roboto', serif;	
+	}
+
+h1{
+	font-family: 'Roboto', sans-serif;
+	font-size: 100px;
+}
+
+body{
+	font-family: 'Roboto', sans-serif;
+	font-size: 100px;
+}
+p{
+	font-size: 200px;
+	
+}
